@@ -11,4 +11,4 @@ var cssColor = id("textColor").style.color();
 var cssBgColor = id("bgColor").style.backgroundColor();
 var cssBorderType = id("borderStyle").style.borderStyle();
 var cssBorderTop = id("borderTop").style.borderTop();
-var cssBorderBottom = id("
+var cssBorderBottom = id("borderBottom").style.borderBottom();
