@@ -12,5 +12,8 @@ null==d?void 0:d))},attrHooks:{type:{set:function(a,b){if(!o.radioValue&&"radio"
 
 //SimpleJS
 $(function(){
-  
+  var bgColorRed = $("bgRed").css("background-color", "red");
+  var bgColorCrimson = $("bgCrim").css("background-color", "crimson");
+  var bgColorBlue = $("bgBlue").css("background-color", "blue");
+  var bgColorDodgerBlue = $("bgDodBlue").css("background-color", "dodgerblue");
 });
