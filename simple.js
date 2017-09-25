@@ -5,7 +5,7 @@ By: DTS123098
 ---------
 */
 
-//Styles
+
 $(function(){
   var bgColorRed = $("#bgRed").css("background-color", "red");
   var bgColorCrimson = $("#bgCrim").css("background-color", "crimson");
@@ -15,4 +15,7 @@ $(function(){
   var bgColorDeepPink = $("#bgDeepPink").css("background-color", "deeppink");
   var bgColorHotPink = $("#bgHotPink").css("background-color", "hotpink");
   var bgColorMagenta = $("#bgMagenta").css("background-color", "magenta");
+  var bgColorOrange = $("#bgOrange").css("background-color", "orange");
+  var bgColorRedOrange = $("#bgRedOrange").css("background-color", "orangered");
+  var bgColorDarkOrange = $("bgDarkOrange").css("background-color", "darkorange");
 });
