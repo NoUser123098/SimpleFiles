@@ -27,6 +27,6 @@ $(function(){
     var lnamesa = Math.floor(Math.random() * lnames.length);
     var fnamesb = fnames[fnamesa];
     var lnamesb = lnames[lnamesa];
-    $("#generate").text(fnamesb + lnamesb);
+    $("#generate").text(fnamesb + " " + lnamesb);
   }
 });
