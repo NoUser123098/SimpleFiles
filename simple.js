@@ -31,7 +31,7 @@ $(function(){
   var deeppink_aaab = $("#deeppink-2").css("background-color", "#ff33a0");
   var deeppink_aaac = $("#deeppink-3").css("background-color", "#ff1a94");
   var deeppink = $("#deeppink").css("background-color", "deeppink");
-  var deeppink_aaaa = $("#deeppink-4").css("background-color", "#ff0088");
-  var deeppink_aaaa = $("#deeppink-5").css("background-color", "#e6007a");
-  var deeppink_aaaa = $("#deeppink-6").css("background-color", "#cc006d");
+  var deeppink_aaad = $("#deeppink-4").css("background-color", "#ff0088");
+  var deeppink_aaae = $("#deeppink-5").css("background-color", "#e6007a");
+  var deeppink_aaaf = $("#deeppink-6").css("background-color", "#cc006d");
 });
