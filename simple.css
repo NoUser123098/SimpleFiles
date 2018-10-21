@@ -5775,30 +5775,6 @@ t-shadow-violet {
   box-shadow: 0 8px 16px 0 mediumspringgreen;
 }
 /*
-Features that ONLY work with SimpleJS
-*/
-@-webkit-keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-.popup-blue-1, .popup-blue-2, .popup-blue, .popup-blue-3, .popup-blue-4 {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-}
-/*
 Notes to Self:
 
 Blue 1 - #3333ff
