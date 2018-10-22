@@ -6002,6 +6002,9 @@ t-shadow-violet {
 .sel-txt-medsprgreen::selection, .sel-txt-medsprgreen::-moz-selection {
   color: mediumspringgreen;
 }
+.bullet-blue-1, .bullet-blue-2, .bullet-blue, .bullet-blue-3, .bullet-blue-4, .bullet-dgblue-1, .bullet-dgblue-2, .bullet-dgblue, .bullet-dgblue-3, .bullet-dgblue-4, .bullet-aqua, .bullet-red, .bullet-crimson, .bullet-pink, .bullet-hotpink, .bullet-deeppink, .bullet-magenta, .bullet-purple, .bullet-green, .bullet-lime, .bullet-sprgreen, .bullet-gray, .bullet-yellow, .bullet-orange, .bullet-teal, .bullet-garnet, .bullet-dkblue, .bullet-dkred, .bullet-gold, .bullet-tan, .bullet-tomato, .bullet-violet, .bullet-medpurple, .bullet-ltgray, .bullet-dimgray, .bullet-sienna, .bullet-silver, .bullet-medsprgreen {
+  list-style-type: none;
+}
 /*
 Notes to Self:
 
