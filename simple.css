@@ -5888,6 +5888,120 @@ t-shadow-violet {
 .sel-bg-medsprgreen::selection, .sel-bg-medsprgreen::-moz-selection {
   background-color: mediumspringgreen;
 }
+.sel-txt-blue-1::selection, .sel-txt-blue-1::-moz-selection {
+  color: #3333ff;
+}
+.sel-txt-blue-2::selection, .sel-txt-blue-2::-moz-selection {
+  color: #1a1aff;
+}
+.sel-txt-blue::selection, .sel-txt-blue::-moz-selection {
+  color: blue;
+}
+.sel-txt-blue-3::selection, .sel-txt-blue-3::-moz-selection {
+  color: #0000e6;
+}
+.sel-txt-blue-4::selection, .sel-txt-blue-4::-moz-selection {
+  color: #0000cc;
+}
+.sel-txt-dgblue-1::selection, .sel-txt-dgblue-1::-moz-selection {
+  color: #3399ff;
+}
+.sel-txt-dgblue-2::selection, .sel-txt-dgblue-2::-moz-selection {
+  color: #4da6ff;
+}
+.sel-txt-dgblue::selection, .sel-txt-dgblue::-moz-selection {
+  color: dodgerblue;
+}
+.sel-txt-dgblue-3::selection, .sel-txt-dgblue-3::-moz-selection {
+  color: #1a8cff;
+}
+.sel-txt-dgblue-4::selection, .sel-txt-dgblue-4::-moz-selection {
+  color: #0080ff;
+}
+.sel-txt-aqua::selection, .sel-txt-aqua::-moz-selection {
+  color: aqua;
+}
+.sel-txt-red::selection, .sel-txt-red::-moz-selection {
+  color: red;
+}
+.sel-txt-crimson::selection, .sel-txt-crimson::-moz-selection {
+  color: crimson;
+}
+.sel-txt-pink::selection, .sel-txt-pink::-moz-selection {
+  color: pink;
+}
+.sel-txt-hotpink::selection, .sel-txt-hotpink::-moz-selection {
+  color: hotpink;
+}
+.sel-txt-deeppink::selection, .sel-txt-deeppink::-moz-selection {
+  color: deeppink;
+}
+.sel-txt-magenta::selection, .sel-txt-magenta::-moz-selection {
+  color: magenta;
+}
+.sel-txt-purple::selection, .sel-txt-purple::-moz-selection {
+  color: purple;
+}
+.sel-txt-green::selection, .sel-txt-green::-moz-selection {
+  color: green;
+}
+.sel-txt-lime::selection, .sel-txt-lime::-moz-selection {
+  color: lime;
+}
+.sel-txt-sprgreen::selection, .sel-txt-sprgreen::-moz-selection {
+  color: springgreen;
+}
+.sel-txt-gray::selection, .sel-txt-gray::-moz-selection {
+  color: gray;
+}
+.sel-txt-yellow::selection, .sel-txt-yellow::-moz-selection {
+  color: yellow;
+}
+.sel-txt-orange::selection, .sel-txt-orange::-moz-selection {
+  color: orange;
+}
+.sel-txt-teal::selection, .sel-txt-teal::-moz-selection {
+  color: teal;
+}
+.sel-txt-garnet::selection, .sel-txt-garnet::-moz-selection {
+  color: #862633;
+}
+.sel-txt-dkblue::selection, .sel-txt-dkblue::-moz-selection {
+  color: darkblue;
+}
+.sel-txt-dkred::selection, .sel-txt-dkred::-moz-selection {
+  color: darkred;
+}
+.sel-txt-gold::selection, .sel-txt-gold::-moz-selection {
+  color: gold;
+}
+.sel-txt-tan::selection, .sel-txt-tan::-moz-selection {
+  color: tan;
+}
+.sel-txt-tomato::selection, .sel-txt-tomato::-moz-selection {
+  color: tomato;
+}
+.sel-txt-violet::selection, .sel-txt-violet::-moz-selection {
+  color: violet;
+}
+.sel-txt-medpurple::selection, .sel-txt-medpurple::-moz-selection {
+  color: mediumpurple;
+}
+.sel-txt-ltgray::selection, .sel-txt-ltgray::-moz-selection {
+  color: lightgray;
+}
+.sel-txt-dimgray::selection, .sel-txt-dimgray::-moz-selection {
+  color: dimgray;
+}
+.sel-txt-sienna::selection, .sel-txt-sienna::-moz-selection {
+  color: sienna;
+}
+.sel-txt-silver::selection, .sel-txt-silver::-moz-selection {
+  color: silver;
+}
+.sel-txt-medsprgreen::selection, .sel-txt-medsprgreen::-moz-selection {
+  color: mediumspringgreen;
+}
 /*
 Notes to Self:
 
