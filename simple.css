@@ -5774,6 +5774,120 @@ t-shadow-violet {
 .b-shadow-medsprgreen {
   box-shadow: 0 8px 16px 0 mediumspringgreen;
 }
+.sel-bg-blue-1::selection, .sel-bg-blue-1::-moz-selection {
+  background-color: #3333ff;
+}
+.sel-bg-blue-2::selection, .sel-bg-blue-2::-moz-selection {
+  background-color: #1a1aff;
+}
+.sel-bg-blue::selection, .sel-bg-blue::-moz-selection {
+  background-color: blue;
+}
+.sel-bg-blue-3::selection, .sel-bg-blue-3::-moz-selection {
+  background-color: #0000e6;
+}
+.sel-bg-blue-4::selection, .sel-bg-blue-4::-moz-selection {
+  background-color: #0000cc;
+}
+.sel-bg-dgblue-1::selection, .sel-bg-dgblue-1::-moz-selection {
+  background-color: #3399ff;
+}
+.sel-bg-dgblue-2::selection, .sel-bg-dgblue-2::-moz-selection {
+  background-color: #4da6ff;
+}
+.sel-bg-dgblue::selection, .sel-bg-dgblue::-moz-selection {
+  background-color: dodgerblue;
+}
+.sel-bg-dgblue-3::selection, .sel-bg-dgblue-3::-moz-selection {
+  background-color: #1a8cff;
+}
+.sel-bg-dgblue-4::selection, .sel-bg-dgblue-4::-moz-selection {
+  background-color: #0080ff;
+}
+.sel-bg-aqua::selection, .sel-bg-aqua::-moz-selection {
+  background-color: aqua;
+}
+.sel-bg-red::selection, .sel-bg-red::-moz-selection {
+  background-color: red;
+}
+.sel-bg-crimson::selection, .sel-bg-crimson::-moz-selection {
+  background-color: crimson;
+}
+.sel-bg-pink::selection, .sel-bg-pink::-moz-selection {
+  background-color: pink;
+}
+.sel-bg-hotpink::selection, .sel-bg-hotpink::-moz-selection {
+  background-color: hotpink;
+}
+.sel-bg-deeppink::selection, .sel-bg-deeppink::-moz-selection {
+  background-color: deeppink;
+}
+.sel-bg-magenta::selection, .sel-bg-magenta::-moz-selection {
+  background-color: magenta;
+}
+.sel-bg-purple::selection, .sel-bg-purple::-moz-selection {
+  background-color: purple;
+}
+.sel-bg-green::selection, .sel-bg-green::-moz-selection {
+  background-color: green;
+}
+.sel-bg-lime::selection, .sel-bg-lime::-moz-selection {
+  background-color: lime;
+}
+.sel-bg-sprgreen::selection, .sel-bg-sprgreen::-moz-selection {
+  background-color: springgreen;
+}
+.sel-bg-gray::selection, .sel-bg-gray::-moz-selection {
+  background-color: gray;
+}
+.sel-bg-yellow::selection, .sel-bg-yellow::-moz-selection {
+  background-color: yellow;
+}
+.sel-bg-orange::selection, .sel-bg-orange::-moz-selection {
+  background-color: orange;
+}
+.sel-bg-teal::selection, .sel-bg-teal::-moz-selection {
+  background-color: teal;
+}
+.sel-bg-garnet::selection, .sel-bg-garnet::-moz-selection {
+  background-color: #862633;
+}
+.sel-bg-dkblue::selection, .sel-bg-dkblue::-moz-selection {
+  background-color: darkblue;
+}
+.sel-bg-dkred::selection, .sel-bg-dkred::-moz-selection {
+  background-color: darkred;
+}
+.sel-bg-gold::selection, .sel-bg-gold::-moz-selection {
+  background-color: gold;
+}
+.sel-bg-tan::selection, .sel-bg-tan::-moz-selection {
+  background-color: tan;
+}
+.sel-bg-tomato::selection, .sel-bg-tomato::-moz-selection {
+  background-color: tomato;
+}
+.sel-bg-violet::selection, .sel-bg-violet::-moz-selection {
+  background-color: violet;
+}
+.sel-bg-medpurple::selection, .sel-bg-medpurple::-moz-selection {
+  background-color: mediumpurple;
+}
+.sel-bg-ltgray::selection, .sel-bg-ltgray::-moz-selection {
+  background-color: lightgray;
+}
+.sel-bg-dimgray::selection, .sel-bg-dimgray::-moz-selection {
+  background-color: dimgray;
+}
+.sel-bg-sienna::selection, .sel-bg-sienna::-moz-selection {
+  background-color: sienna;
+}
+.sel-bg-silver::selection, .sel-bg-silver::-moz-selection {
+  background-color: silver;
+}
+.sel-bg-medsprgreen::selection, .sel-bg-medsprgreen::-moz-selection {
+  background-color: mediumspringgreen;
+}
 /*
 Notes to Self:
 
