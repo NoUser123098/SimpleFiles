@@ -6005,6 +6005,272 @@ t-shadow-violet {
 .bullet-blue-1, .bullet-blue-2, .bullet-blue, .bullet-blue-3, .bullet-blue-4, .bullet-dgblue-1, .bullet-dgblue-2, .bullet-dgblue, .bullet-dgblue-3, .bullet-dgblue-4, .bullet-aqua, .bullet-red, .bullet-crimson, .bullet-pink, .bullet-hotpink, .bullet-deeppink, .bullet-magenta, .bullet-purple, .bullet-green, .bullet-lime, .bullet-sprgreen, .bullet-gray, .bullet-yellow, .bullet-orange, .bullet-teal, .bullet-garnet, .bullet-dkblue, .bullet-dkred, .bullet-gold, .bullet-tan, .bullet-tomato, .bullet-violet, .bullet-medpurple, .bullet-ltgray, .bullet-dimgray, .bullet-sienna, .bullet-silver, .bullet-medsprgreen {
   list-style-type: none;
 }
+.bullet-blue-1 li::before {
+  content: "\2022";
+  color: #3333ff;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-blue-2 li::before {
+  content: "\2022";
+  color: #1a1aff;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-blue li::before {
+  content: "\2022";
+  color: blue;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-blue-3 li::before {
+  content: "\2022";
+  color: #0000e6;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-blue-4 li::before {
+  content: "\2022";
+  color: #0000cc;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-dgblue-1 li::before {
+  content: "\2022";
+  color: #3399ff;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-dgblue-2 li::before {
+  content: "\2022";
+  color: #4da6ff;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-dgblue li::before {
+  content: "\2022";
+  color: dodgerblue;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-dgblue-3 li::before {
+  content: "\2022";
+  color: #1a8cff;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-dgblue-4 li::before {
+  content: "\2022";
+  color: #0080ff;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-aqua li::before {
+  content: "\2022";
+  color: aqua;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-red li::before {
+  content: "\2022";
+  color: red;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-crimson li::before {
+  content: "\2022";
+  color: crimson;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-pink li::before {
+  content: "\2022";
+  color: pink;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-hotpink li::before {
+  content: "\2022";
+  color: hotpink;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-deeppink li::before {
+  content: "\2022";
+  color: deeppink;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-magenta li::before {
+  content: "\2022";
+  color: magenta;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-purple li::before {
+  content: "\2022";
+  color: purple;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-green li::before {
+  content: "\2022";
+  color: green;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-lime li::before {
+  content: "\2022";
+  color: lime;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-sprgreen li::before {
+  content: "\2022";
+  color: springgreen;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-gray li::before {
+  content: "\2022";
+  color: gray;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-yellow li::before {
+  content: "\2022";
+  color: yellow;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-orange li::before {
+  content: "\2022";
+  color: orange;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-teal li::before {
+  content: "\2022";
+  color: teal;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-garnet li::before {
+  content: "\2022";
+  color: #862633;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-dkblue li::before {
+  content: "\2022";
+  color: darkblue;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-dkred li::before {
+  content: "\2022";
+  color: darkred;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-gold li::before {
+  content: "\2022";
+  color: gold;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-tan li::before {
+  content: "\2022";
+  color: tan;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-tomato li::before {
+  content: "\2022";
+  color: tomato;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-violet li::before {
+  content: "\2022";
+  color: violet;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-medpurple li::before {
+  content: "\2022";
+  color: mediumpurple;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-ltgray li::before {
+  content: "\2022";
+  color: lightgray;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-dimgray li::before {
+  content: "\2022";
+  color: dimgray;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-sienna li::before {
+  content: "\2022";
+  color: sienna;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-silver li::before {
+  content: "\2022";
+  color: silver;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+.bullet-medsprgreen li::before {
+  content: "\2022";
+  color: mediumspringgreen;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
 /*
 Notes to Self:
 
