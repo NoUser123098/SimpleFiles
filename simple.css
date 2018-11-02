@@ -6271,29 +6271,6 @@ t-shadow-violet {
   width: 1em;
   margin-left: -1em;
 }
-.sb-thumb-blue-1::-webkit-scrollbar, .sb-thumb-blue-2::-webkit-scrollbar, .sb-thumb-blue::-webkit-scrollbar, .sb-thumb-blue-3::-webkit-scrollbar, .sb-thumb-blue-4::-webkit-scrollbar {
-  width: 20px;
-}
-.sb-thumb-blue-1::-webkit-scrollbar-thumb {
-  background-color: #3333ff;
-  border-radius: 10px;
-}
-.sb-thumb-blue-2::-webkit-scrollbar-thumb {
-  background-color: #1a1aff;
-  border-radius: 10px;
-}
-.sb-thumb-blue::-webkit-scrollbar-thumb {
-  background-color: blue;
-  border-radius: 10px;
-}
-.sb-thumb-blue-3::-webkit-scrollbar-thumb {
-  background-color: #0000e6;
-  border-radius: 10px;
-}
-.sb-thumb-blue-4::-webkit-scrollbar-thumb {
-  background-color: #0000cc;
-  border-radius: 10px;
-}
 /*
 Notes to Self:
 
